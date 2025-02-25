@@ -5,3 +5,5 @@ This repository is dedicated to presenting mathematical concepts related to time
   <img src="https://github.com/VictorFrancheto/time-series/blob/main/image.JPG">
 </p>
 
+
+  
