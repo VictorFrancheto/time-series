@@ -6,4 +6,4 @@ This repository is dedicated to presenting mathematical concepts related to time
 </p>
 
   
-* The file Time Series.pdf contains all the mathematical content related to time series analysis.
+* The file `Time Series.pdf` contains all the mathematical content related to time series analysis.
